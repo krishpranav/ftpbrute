@@ -7,4 +7,4 @@ This is a simple python tool for brute forcing ftp port in a website
 - python3 ftpbrute.py
 
 - NOTE: USE PROXYCHAINS OR VPN TO HIDE YOURSELF :)
-TOOL IS CREATED BY KRISNA PRANAV
+- TOOL IS CREATED BY KRISNA PRANAV
